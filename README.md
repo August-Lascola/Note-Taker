@@ -1,6 +1,6 @@
 # Note-Taker
 
-![Alt text](Assets/images/ss.png)
+![Alt text](assets/images/ss.png)
 ## CONTENTS OF THIS FILE
 -------------
 Introduction
